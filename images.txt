@@ -5,4 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 easzlab/kubeasz:3.3.1
 easzlab/kubeasz-k8s-bin
-mzz2017/v2raya:latest
+mzz2017/v2raya
