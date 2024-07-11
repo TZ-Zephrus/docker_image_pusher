@@ -15,4 +15,3 @@ quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
 quay.io/prometheus-operator/prometheus-operator:v0.62.0
 quay.io/brancz/kube-rbac-proxy:v0.14.0
 quay.io/prometheus/prometheus:v2.41.0
-brancz/kube-rbac-proxy:v0.14.0
